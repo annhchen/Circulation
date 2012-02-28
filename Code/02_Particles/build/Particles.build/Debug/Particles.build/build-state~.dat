@@ -1,0 +1,475 @@
+TParticles
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Info.plist platform/main.plist
+cProcessPCH++ /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctrsnhccodazxoevionhrqxufxyx/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fnokjlypucmrsacuvnphuduqpeid/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH++ /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-emaafxaiefdyzqgikoennnxoaxkg/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/main.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/ParticlesApp.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/ParticlesApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/Particle.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/Particle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppDelegate.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/poOpenGLView.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/poOpenGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppConfig.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/AppConfig.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/MacOS/Particles normal i386
+cCpResource Particles/../platform/Debug.xcconfig build/Debug/Particles.app/Contents/Resources/Debug.xcconfig
+cCpResource Particles/../platform/Release.xcconfig build/Debug/Particles.app/Contents/Resources/Release.xcconfig
+cCopyStringsFile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/en.strings Particles/../platform/en.strings
+cCpResource platform/main.pch build/Debug/Particles.app/Contents/Resources/main.pch
+cCompileXIB /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.xib
+cTouch /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app
+
+N/Developer/SDKs/MacOSX10.7.sdk
+c000000004E7AD70B00000000000000EE
+t1316673291
+s238
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/OpenGL.framework/Headers/OpenGL.h
+c000000004E5454370000000000001E74
+t1314149431
+s7796
+
+N/Developer/SDKs/MacOSX10.7.sdk/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004E5454370000000000003F84
+t1314149431
+s16260
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/AppDelegate.mm
+c000000004F1EF5CA0000000000001E1D
+t1327429066
+s7709
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/Debug.xcconfig
+c000000004F1EF5CA00000000000004DB
+t1327429066
+s1243
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/Release.xcconfig
+c000000004F1EF5CA00000000000004CD
+t1327429066
+s1229
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/en.strings
+c000000004F1EF5CA000000000000002D
+t1327429066
+s45
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.m
+c000000004F1EF5CA0000000000000077
+t1327429066
+s119
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.xib
+c000000004F1EF5CA0000000000006176
+t1327429066
+s24950
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/poOpenGLView.mm
+c000000004F1EF5CA00000000000012F4
+t1327429066
+s4852
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/AppConfig.cpp
+c000000004F1EF5CA00000000000001B8
+t1327429066
+s440
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/Particle.cpp
+c000000004F1EF5CA000000000000057F
+t1327429066
+s1407
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/ParticlesApp.cpp
+c000000004F1EF5CA00000000000002EB
+t1327429066
+s747
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Info.plist
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/MacOS/Particles
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/Debug.xcconfig
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/Release.xcconfig
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/en.strings
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/main.nib
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/main.pch
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppConfig.o
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/Particle.o
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/Particles.LinkFileList
+c000000004F4BF8F1000000000000035C
+t1330378993
+s860
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/ParticlesApp.o
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/poOpenGLView.o
+t2
+s0
+
+N/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/platform/main.pch
+c000000004F1EF5CA00000000000002E8
+t1327429066
+s744
+i<Cocoa/Cocoa.h>
+i<OpenGL/OpenGL.h>
+i<OpenGL/glu.h>
+i<string>
+i<vector>
+i<set>
+i<list>
+i<stack>
+i<map>
+i<algorithm>
+i<boost/any.hpp>
+i<boost/bind.hpp>
+i<boost/variant.hpp>
+i<boost/foreach.hpp>
+i<boost/function.hpp>
+i<boost/noncopyable.hpp>
+i<boost/tuple/tuple.hpp>
+i<boost/unordered_map.hpp>
+i<boost/shared_ptr.hpp>
+i<boost/thread.hpp>
+i<boost/filesystem.hpp>
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/any.hpp
+c000000004F286C680000000000001969
+t1328049256
+s6505
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/bind.hpp
+c000000004F286C6A0000000000000245
+t1328049258
+s581
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/filesystem.hpp
+c000000004F286C6B00000000000004AE
+t1328049259
+s1198
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/foreach.hpp
+c000000004F286C6B000000000000ACC7
+t1328049259
+s44231
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/function.hpp
+c000000004F286C6B0000000000000864
+t1328049259
+s2148
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/noncopyable.hpp
+c000000004F286C7300000000000003F6
+t1328049267
+s1014
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/shared_ptr.hpp
+c000000004F286C77000000000000021B
+t1328049271
+s539
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/thread.hpp
+c000000004F286C7B0000000000000347
+t1328049275
+s839
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/tuple/tuple.hpp
+c000000004F286C7B0000000000000B2C
+t1328049275
+s2860
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/unordered_map.hpp
+c000000004F286C7C0000000000000226
+t1328049276
+s550
+
+N/pocode/libraries/Boost/boost_1_45_0/boost/variant.hpp
+c000000004F286C7D0000000000000373
+t1328049277
+s883
+
+N/var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctrsnhccodazxoevionhrqxufxyx/main.pch.pth
+t2
+s0
+
+N/var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-emaafxaiefdyzqgikoennnxoaxkg/main.pch.pth
+t2
+s0
+
+N/var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fnokjlypucmrsacuvnphuduqpeid/main.pch.pth
+t2
+s0
+
+Nplatform/main.plist
+c000000004F1EF5CA00000000000003E2
+t1327429066
+s994
+
+CBuild AST from /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/AppDelegate.mm
+r0
+
+CBuild AST from /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.m
+r0
+
+CBuild AST from /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/poOpenGLView.mm
+r0
+
+CBuild AST from /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/AppConfig.cpp
+r0
+
+CBuild AST from /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/Particle.cpp
+r0
+
+CBuild AST from /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/ParticlesApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies35b3a27130fcb441^4fcad47130fcb441^---0#1#0#--18"Check dependencies36"B95166A6-72C1-4778-9F93-2705BC8315F9-
+
+CCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppConfig.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/AppConfig.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s352071805.772072
+e352071807.902941
+r1
+xCompileC
+xbuild/Particles.build/Debug/Particles.build/Objects-normal/i386/AppConfig.o
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/AppConfig.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/AppConfig.cppcac4c57d30fcb441^3128e77f30fcb441^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/AppConfig.cpp0000000000000000^2702"CompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppConfig.o Particles/AppConfig.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-generated-files.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-own-target-headers.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-all-target-headers.hmap -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources/i386 -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources -F/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -include /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-emaafxaiefdyzqgikoennnxoaxkg/main.pch -MMD -MT dependencies -MF /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppConfig.d -c /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/AppConfig.cpp -o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppConfig.o36"734F38AD-8B93-4865-8EC8-52FBB29ACDFC-
+
+CCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppDelegate.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s352071803.647368
+e352071805.770782
+r1
+xCompileC
+xbuild/Particles.build/Debug/Particles.build/Objects-normal/i386/AppDelegate.o
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/AppDelegate.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/AppDelegate.mmb2d9a57b30fcb441^a470c57d30fcb441^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/AppDelegate.mm0000000000000000^2930"CompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppDelegate.o Particles/../platform/AppDelegate.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-generated-files.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-own-target-headers.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-all-target-headers.hmap -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources/i386 -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources -F/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -include /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctrsnhccodazxoevionhrqxufxyx/main.pch -MMD -MT dependencies -MF /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppDelegate.d -c /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/AppDelegate.mm -o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/AppDelegate.o36"CFB965E9-7DAF-4695-850A-BF04E064C205-
+
+CCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/Particle.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/Particle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s352071802.444568
+e352071803.646009
+r1
+xCompileC
+xbuild/Particles.build/Debug/Particles.build/Objects-normal/i386/Particle.o
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/Particle.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/Particle.cppd5ec717a30fcb441^8560a57b30fcb441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/Particle.cpp0000000000000000^2697"CompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/Particle.o Particles/Particle.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-generated-files.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-own-target-headers.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-all-target-headers.hmap -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources/i386 -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources -F/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -include /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-emaafxaiefdyzqgikoennnxoaxkg/main.pch -MMD -MT dependencies -MF /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/Particle.d -c /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/Particle.cpp -o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/Particle.o36"F779960F-0700-46D5-871A-3935ABA59950-
+
+CCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/ParticlesApp.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/ParticlesApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s352071802.272372
+e352071804.719080
+r1
+xCompileC
+xbuild/Particles.build/Debug/Particles.build/Objects-normal/i386/ParticlesApp.o
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/ParticlesApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/ParticlesApp.cpp0de0457a30fcb441^4d15b87c30fcb441^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/ParticlesApp.cpp0000000000000000^2717"CompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/ParticlesApp.o Particles/ParticlesApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-generated-files.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-own-target-headers.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-all-target-headers.hmap -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources/i386 -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources -F/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -include /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-emaafxaiefdyzqgikoennnxoaxkg/main.pch -MMD -MT dependencies -MF /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/ParticlesApp.d -c /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/ParticlesApp.cpp -o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/ParticlesApp.o36"62A6BB18-03BC-44BE-815B-FCAABF3A0270-
+
+CCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/main.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352071801.552055
+e352071802.270970
+r1
+xCompileC
+xbuild/Particles.build/Debug/Particles.build/Objects-normal/i386/main.o
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.m116f8d7930fcb441^fa60457a30fcb441^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.m0000000000000000^2829"CompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/main.o Particles/../platform/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-generated-files.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-own-target-headers.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-all-target-headers.hmap -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources/i386 -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources -F/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -include /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fnokjlypucmrsacuvnphuduqpeid/main.pch -MMD -MT dependencies -MF /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/main.d -c /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.m -o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/main.o36"407D235B-66BA-4496-A1E0-9A761A4C19E6-
+
+CCompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/poOpenGLView.o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/poOpenGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s352071804.720391
+e352071806.712921
+r1
+xCompileC
+xbuild/Particles.build/Debug/Particles.build/Objects-normal/i386/poOpenGLView.o
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/poOpenGLView.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/poOpenGLView.mm9c8ab87c30fcb441^dc81b67e30fcb441^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/poOpenGLView.mm0000000000000000^2935"CompileC build/Particles.build/Debug/Particles.build/Objects-normal/i386/poOpenGLView.o Particles/../platform/poOpenGLView.mm normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++ -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-generated-files.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-own-target-headers.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-all-target-headers.hmap -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources/i386 -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources -F/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -include /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctrsnhccodazxoevionhrqxufxyx/main.pch -MMD -MT dependencies -MF /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/poOpenGLView.d -c /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/poOpenGLView.mm -o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/poOpenGLView.o36"02094BF0-FBB3-4865-9597-FA42F9D02211-
+
+CCompileXIB /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.xib
+s352071811.666176
+e352071811.703157
+r1
+xCompileXIB
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.xib
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compiling /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.xiba69daa8330fcb441^a510b48330fcb441^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.xib0000000000000000^536"CompileXIB Particles/../platform/main.xib    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/main.nib /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/main.xib --sdk /Developer/SDKs/MacOSX10.7.sdk36"476DB120-6ED0-4D4C-BC2B-231CACECEE86-
+
+CCopyStringsFile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/en.strings Particles/../platform/en.strings
+s352071811.659930
+e352071811.679572
+r1
+xCopyStringsFile
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/en.strings
+xParticles/../platform/en.strings
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Particles/../platform/en.strings5f0ca98330fcb441^4705ae8330fcb441^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/en.strings0000000000000000^417"CopyStringsFile build/Debug/Particles.app/Contents/Resources/en.strings Particles/../platform/en.strings    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources -- Particles/../platform/en.strings36"3DE088EF-8C88-431D-911D-83BB5A50CA8F-
+
+CCpResource Particles/../platform/Debug.xcconfig build/Debug/Particles.app/Contents/Resources/Debug.xcconfig
+s352071811.653532
+e352071811.658608
+r1
+xCpResource
+xParticles/../platform/Debug.xcconfig
+xbuild/Debug/Particles.app/Contents/Resources/Debug.xcconfig
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug/Particles.app/Contents/Resources/Debug.xcconfig7c60a78330fcb441^bea1a88330fcb441^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/Debug.xcconfig0000009702011042^510"CpResource Particles/../platform/Debug.xcconfig build/Debug/Particles.app/Contents/Resources/Debug.xcconfig    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/Debug.xcconfig /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources36"E3D42856-3C5D-4645-AE4E-E66C1A1E673A-
+
+CCpResource Particles/../platform/Release.xcconfig build/Debug/Particles.app/Contents/Resources/Release.xcconfig
+s352071811.654030
+e352071811.658759
+r1
+xCpResource
+xParticles/../platform/Release.xcconfig
+xbuild/Debug/Particles.app/Contents/Resources/Release.xcconfig
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug/Particles.app/Contents/Resources/Release.xcconfig707aa78330fcb441^0b9ca88330fcb441^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/Release.xcconfig00f478b1dfffdf42^516"CpResource Particles/../platform/Release.xcconfig build/Debug/Particles.app/Contents/Resources/Release.xcconfig    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/Particles/../platform/Release.xcconfig /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources36"4DDF7A12-14E4-4B3F-B6DC-1824A22AF560-
+
+CCpResource platform/main.pch build/Debug/Particles.app/Contents/Resources/main.pch
+s352071811.660286
+e352071811.664909
+r1
+xCpResource
+xplatform/main.pch
+xbuild/Debug/Particles.app/Contents/Resources/main.pch
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug/Particles.app/Contents/Resources/main.pchb517a98330fcb441^1138aa8330fcb441^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources/main.pch00f478b1dfffdf42^466"CpResource platform/main.pch build/Debug/Particles.app/Contents/Resources/main.pch    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/platform/main.pch /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Resources36"888255E6-3E59-41A5-812D-019D00884F30-
+
+CLd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/MacOS/Particles normal i386
+s352071807.909841
+e352071811.645242
+r1
+xLd
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/MacOS/Particles
+xnormal
+xi386
+old: warning: direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Link /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/MacOS/Particlesb803e97f30fcb441^0630a58330fcb441^-283"ld: warning: direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.1(21%IDEActivityLogMessage2@269"Direct access in __ZN5boost6system12system_errorD2Ev to global weak symbol __ZTVN5boost6system12system_errorE means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-352071811#0#283#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#32"Apple Mach-O Linker (ld) Warning--0#0#0#--907"Ld build/Debug/Particles.app/Contents/MacOS/Particles normal i386    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang++ -arch i386 -isysroot /Developer/SDKs/MacOSX10.7.sdk -L/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -L/pocode/libraries/pocode -F/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -filelist /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Objects-normal/i386/Particles.LinkFileList -mmacosx-version-min=10.6 -lpocode_d /usr/lib/libsqlite3.0.dylib -framework Cocoa -framework ApplicationServices -framework OpenGL -framework CoreVideo -framework QTKit -o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/MacOS/Particles36"84D0B0DA-03BE-4EA0-B55D-9989656BFD7B-
+
+CProcessInfoPlistFile /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Info.plist platform/main.plist
+s352071793.965543
+e352071793.970826
+r1
+xProcessInfoPlistFile
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Info.plist
+xplatform/main.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"Process platform/main.pliste943f77130fcb441^40c2047230fcb441^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/platform/main.plist0000000000000000^486"ProcessInfoPlistFile build/Debug/Particles.app/Contents/Info.plist platform/main.plist    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    builtin-infoPlistUtility platform/main.plist -genpkginfo /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app/Contents/Info.plist36"0B3F5C19-72A6-4927-B5FF-85F593649760-
+
+CProcessPCH /Users/annchen/Library/Developer/Xcode/DerivedData/Particles-fymbqdpanvxqzwddtxbrdiqzlhtx/Index/PrecompiledHeaders/main-bszekczfepegbbdosnqlvbrcemhu_ast/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fnokjlypucmrsacuvnphuduqpeid/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352071794.024204
+e352071797.162293
+r1
+xProcessPCH
+x/var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fnokjlypucmrsacuvnphuduqpeid/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch0d50067230fcb441^5d88297530fcb441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/platform/main.pch0000000000000000^2744"ProcessPCH /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fnokjlypucmrsacuvnphuduqpeid/main.pch.pth platform/main.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-generated-files.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-own-target-headers.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-all-target-headers.hmap -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources/i386 -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources -F/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -c /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/platform/main.pch -o /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fnokjlypucmrsacuvnphuduqpeid/main.pch.pth -MMD -MT dependencies -MF /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-fnokjlypucmrsacuvnphuduqpeid/main.pch.d36"48C9D497-2106-4FD5-9794-2CAB0F7FCC36-
+
+CProcessPCH++ /Users/annchen/Library/Developer/Xcode/DerivedData/Particles-fymbqdpanvxqzwddtxbrdiqzlhtx/Index/PrecompiledHeaders/main-ajsmhghxzwfyxdemowrxwqgkkmbo_ast/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /Users/annchen/Library/Developer/Xcode/DerivedData/Particles-fymbqdpanvxqzwddtxbrdiqzlhtx/Index/PrecompiledHeaders/main-cbwackpgttxzudapqufbpicphkjo_ast/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctrsnhccodazxoevionhrqxufxyx/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler
+s352071794.021056
+e352071802.443251
+r1
+xProcessPCH++
+x/var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctrsnhccodazxoevionhrqxufxyx/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch05a8057230fcb441^c478717a30fcb441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/platform/main.pch0000000000000000^2810"ProcessPCH++ /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctrsnhccodazxoevionhrqxufxyx/main.pch.pth platform/main.pch normal i386 objective-c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wno-arc-abi -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-generated-files.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-own-target-headers.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-all-target-headers.hmap -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources/i386 -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources -F/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -c /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/platform/main.pch -o /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctrsnhccodazxoevionhrqxufxyx/main.pch.pth -MMD -MT dependencies -MF /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-ctrsnhccodazxoevionhrqxufxyx/main.pch.d36"F1E59239-A9C9-471A-BBF2-6DB744F11C62-
+
+CProcessPCH++ /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-emaafxaiefdyzqgikoennnxoaxkg/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s352071797.184613
+e352071801.550691
+r1
+xProcessPCH++
+x/var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-emaafxaiefdyzqgikoennnxoaxkg/main.pch.pth
+xplatform/main.pch
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile platform/main.pch23652f7530fcb441^12fb8c7930fcb441^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/platform/main.pch0000000000000000^2614"ProcessPCH++ /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-emaafxaiefdyzqgikoennnxoaxkg/main.pch.pth platform/main.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c++-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wno-return-type -Wparentheses -Wno-switch -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-shorten-64-to-32 -Wc++0x-extensions -DDEBUG -DTIXML_USE_STL -isysroot /Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-generated-files.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-own-target-headers.hmap -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-all-target-headers.hmap -iquote /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/Particles-project-headers.hmap -iquote/pocode/libraries/pocode -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/include -I/pocode/libraries/pocode/include -I/pocode/libraries/Boost/boost_1_45_0 -I/pocode/libraries/FreeImage -I/pocode/libraries/TinyXPath -I/pocode/libraries/FreeType -I/pocode/libraries/utf8 -I/pocode/libraries/libMikko -I/pocode/libraries/bz2 -I/pocode/libraries/pugixml -I/pocode/libraries -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources/i386 -I/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Particles.build/Debug/Particles.build/DerivedSources -F/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug -c /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/platform/main.pch -o /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-emaafxaiefdyzqgikoennnxoaxkg/main.pch.pth -MMD -MT dependencies -MF /var/folders/w9/969vvhss1115312bl_hg8fbw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/main-emaafxaiefdyzqgikoennnxoaxkg/main.pch.d36"F77E1084-6DC0-412B-B6F6-BEBCE6CFB46D-
+
+CTouch /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app
+s352071811.712878
+e352071811.737860
+r1
+xTouch
+x/Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Touch /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.appe78eb68330fcb441^09f9bc8330fcb441^---0#0#0#--221"Touch build/Debug/Particles.app    cd /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles    /usr/bin/touch -c /Users/annchen/Documents/pocode/examples/02_Tutorials/02_Particles/build/Debug/Particles.app36"C210C827-4F07-4BF5-9D54-E05C7DF8C8BB-
+
